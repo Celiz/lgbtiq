@@ -189,7 +189,16 @@ btn-check:focus+.btn-primary, .btn-primary:focus {
     .carousel, .carousel-inner > .item > img{
         height: 30vh;
         width: 30vh;
-    }    
+    } 
+
+    .carousel, img {
+        width: 30vh;
+        
+        height: 30vh;
+      
+        }
+    
+    
 
     .credits__text {
         width: 80vw;
